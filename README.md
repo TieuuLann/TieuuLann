@@ -8,6 +8,9 @@
 
 <table>
   <tr>
+        <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Lua-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Lua
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
